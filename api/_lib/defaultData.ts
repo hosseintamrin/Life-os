@@ -1,0 +1,1 @@
+export function emptyData() { return { tasks: [], events: [], weeklyTemplates: [], focusSessions: [], transactions: [], notes: [], routines: [], books: [], highlights: [], bookNotes: [], readingSessions: [], movies: [], goals: [], dailyReports: [], dayMeta: [] } }
